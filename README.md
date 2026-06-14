@@ -18,3 +18,14 @@
 
 ## Objective
 The goal of this project is to transform raw cricket data into actionable insights, helping users identify trends, compare performances, and better understand the historical rivalry between India and South Africa through data-driven storytelling.
+
+## Batting Dashboard
+<img width="1296" height="727" alt="Screenshot 2026-06-14 151939" src="https://github.com/user-attachments/assets/7c75725f-d28e-4b71-ac90-8d45d8224e09" />
+
+## Bowling Dashboard
+<img width="1306" height="728" alt="Screenshot 2026-06-14 151952" src="https://github.com/user-attachments/assets/e6ee217d-f95d-4fc2-81ad-bc8bbff14c77" />
+
+## Fielding Dashboard
+<img width="1302" height="732" alt="Screenshot 2026-06-14 152005" src="https://github.com/user-attachments/assets/e455c061-15be-4f52-924b-029dd8dbf760" />
+
+
